@@ -9,4 +9,4 @@ Terminalde proje dizinine gelindikten sonra
 `python manage.py runserver` komutu ile çalıştırılır.
 http://localhost:8000 portunda çalışmaktadır.
 
-MacOSX platformunda geliştirdim, kurulum aşamaları degişebilir.
+MacOS platformunda geliştirdim, kurulum aşamalarında bir sorun olursa ayseberna.aksoy@gmail.com adresine ulaşabilirsiniz.
